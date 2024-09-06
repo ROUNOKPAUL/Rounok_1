@@ -1,3 +1,3 @@
 # Rounok_1
 THIS IS MY FIRST REPOSITORY
-Autor-Rounok paul
+Author-Rounok paul
